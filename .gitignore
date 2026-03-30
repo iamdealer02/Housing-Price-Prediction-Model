@@ -1,0 +1,5 @@
+#  venv folder
+house-prediction-env
+
+# all csv files
+*.csv
